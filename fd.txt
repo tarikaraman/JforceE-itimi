@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dasds
+=======
+fd
+ads
+>>>>>>> 1a6d408bf796c3f86badf3183a2109b896e998ba

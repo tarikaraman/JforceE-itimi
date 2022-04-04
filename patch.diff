@@ -1,7 +1,28 @@
+From 96c5148f8be3ec64332e83245e6b073e1bbba97b Mon Sep 17 00:00:00 2001
+From: gunge <gunge@DESKTOP-B5HNJ3C>
+Date: Mon, 4 Apr 2022 15:53:46 +0300
+Subject: [PATCH] =?UTF-8?q?kangala=C5=9Fk=C4=B1na=205885?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ Dosya.txt | 5 ++---
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
 diff --git a/Dosya.txt b/Dosya.txt
-index 961a2bd..e69de29 100644
+index b147053..56764eb 100644
 --- a/Dosya.txt
 +++ b/Dosya.txt
-@@ -1 +0,0 @@
--COmmit 1
+@@ -1,5 +1,4 @@
+ COmmit 1
+ test
+-deneme
+-
+-adem
 \ No newline at end of file
++asdasdasdasdasddffk
++kangal5885
+-- 
+2.34.1.windows.1
+
